@@ -34,7 +34,7 @@ const FetchAdvice = () => {
         <div className="id">
           <p>ADVICE #{data.id}</p>
         </div>
-        <p>{data.advice}</p>
+        <p>"{data.advice}"</p>
         <CiPause1 className='icon1'/>
         <div className="icon2">
           <FaDiceFive className='icon' onClick={fetchAdvice} />
