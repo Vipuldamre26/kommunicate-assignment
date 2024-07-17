@@ -1,0 +1,41 @@
+.fetch-advice{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fetch-advice .fetch-main{
+    width: 30rem;
+    height: 20rem;
+    background-color: rgba(255, 255, 255, 0.192);
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    position: relative;
+}
+
+.fetch-advice .fetch-main p{
+    background:none;
+}
+
+.fetch-advice .fetch-main .icon1{
+    font-size: 1.2rem;
+    background:none;
+
+}
+
+.fetch-advice .fetch-main .id{
+    background:none;
+}
+
+.fetch-advice .fetch-main .icon2{
+    background:none;
+
+}
