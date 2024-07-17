@@ -23,6 +23,8 @@
 
 .fetch-advice .fetch-main p{
     background:none;
+    font-size: 1rem;
+    font-weight: 500;
 }
 
 .fetch-advice .fetch-main .icon1{
@@ -33,6 +35,7 @@
 
 .fetch-advice .fetch-main .id{
     background:none;
+    color:rgb(47, 255, 71);
 }
 
 .fetch-advice .fetch-main .icon2{
@@ -40,7 +43,7 @@
     width: 3rem;
     background:none;
     position: absolute;
-    bottom: -10px;
+    bottom: -22px;
     left: 46%;
     font-size: 2rem;
     color: black;
