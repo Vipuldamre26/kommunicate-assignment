@@ -36,6 +36,32 @@
 }
 
 .fetch-advice .fetch-main .icon2{
+    height: 3rem;
+    width: 3rem;
     background:none;
+    position: absolute;
+    bottom: -10px;
+    left: 46%;
+    font-size: 2rem;
+    color: black;
+    background-color: rgb(47, 255, 71);
+    border-radius: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.fetch-advice .fetch-main .icon2:hover{
+    box-shadow: 1px 1px 5px 1px rgb(47, 255, 71);
+    cursor: pointer;
+}
+
+.fetch-advice .fetch-main .icon2 .icon{
+    background:none;
+    /* position: absolute;
+    bottom: -10px;
+    left: 50%;
+    font-size: 2rem;
+    color: black; */
+    
 }

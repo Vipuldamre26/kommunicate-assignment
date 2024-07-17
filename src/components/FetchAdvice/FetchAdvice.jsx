@@ -37,7 +37,7 @@ const FetchAdvice = () => {
         <p>{data.advice}</p>
         <CiPause1 className='icon1'/>
         <div className="icon2">
-          <FaDiceFive onClick={fetchAdvice} />
+          <FaDiceFive className='icon' onClick={fetchAdvice} />
         </div>
       </div>
     </div>
